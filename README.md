@@ -13,7 +13,7 @@ Operating Point, DC, AC, and Transient simulations were used extensively through
 
 |              | Parameter                                    | Simulation  (nom. cond.) |       |
 |--------------|----------------------------------------------|:------------------------:|-------|
-| Sign-Up Info | Max. Supply Current IDDmax [uA]              |                      700 | μA    |
+| Requirements | Max. Supply Current IDDmax [uA]              |                      700 | μA    |
 |              | Gain G [V/V]                                 |                        4 | V/V   |
 | DC           | Current Consumption                          |                    694.1 | μA    |
 | AC           | Loop Gain                                    |                    66.90 | dB    |
