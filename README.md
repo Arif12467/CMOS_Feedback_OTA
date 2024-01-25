@@ -2,7 +2,7 @@
 ## Arif Amzad
 
 ## Schematic
-![This is an image]()
+![This is an image](OTA_Schematic.png)
 ## Datasheet
 
 |              | Parameter                                    | Simulation  (nom. cond.) |       |
