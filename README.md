@@ -1,7 +1,7 @@
 # CMOS Feedback Operational Transconductance Amplifier
 ## Arif Amzad
 
-## Description
+## About
 This project covers the design of an Operation Transconductance Amplifier (OTA) to be used as a feedback amplifier to drive an oscilloscope input. The OTA was specified to have a maximum IDD current of 700uA, a gain of 4V/V, and a loading of a 1MΩ resistor in parallel with a 20pF capacitor. The OTA used a symmetric +1.25/-1.25V supply along with a ideal 10uA current reference. The OTA needed a high enough input impedance to be able to accurately measure DC voltages to 0.1% and be able to have a fast step response such that the overshoot is less than 1%. In addition, all transistors needed an overdrive voltage above 200mV.
 
 Operating Point, DC, AC, and Transient simulations were used extensively throughout the design process using a TSMC 0.25um model library in Cadence Virtuoso. Process Voltage Temperature variations were simulated as well to determine how the behavior of the OTA changes under conditional changes.
