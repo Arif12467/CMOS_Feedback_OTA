@@ -2,7 +2,7 @@
 ## Arif Amzad
 
 ## Schematic
-
+![This is an image]()
 ## Datasheet
 
 |              | Parameter                                    | Simulation  (nom. cond.) |       |
