@@ -11,7 +11,7 @@ Operating Point, DC, AC, and Transient simulations were used extensively through
 
 ## Datasheet
 
-|              | Parameter                                    | Simulation  (nom. cond.) |       |
+|              | Parameter                                    | Simulation  (nom. cond.) | Units      |
 |--------------|----------------------------------------------|:------------------------:|-------|
 | Requirements | Max. Supply Current IDDmax [uA]              |                      700 | μA    |
 |              | Gain G [V/V]                                 |                        4 | V/V   |
