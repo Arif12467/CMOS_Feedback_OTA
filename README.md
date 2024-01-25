@@ -1,1 +1,23 @@
-# CMOS_Feedback_OTA
+# CMOS Feedback Operational Transconductance Amplifier
+## Arif Amzad
+
+## Schematic
+
+## Datasheet
+
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
